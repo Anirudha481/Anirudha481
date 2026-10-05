@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/anirudha-th/" target="_blank" rel="noreferrer">
+  <a href="[https://www.linkedin.com/in/anirudha-th/](https://www.linkedin.com/in/anirudha-th-515151365/)" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/anirudha_th/" target="_blank" rel="noreferrer">
