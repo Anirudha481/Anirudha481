@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Anirudha TH from India <br><br>- 🔭 I’m working on <a href="https://github.com/Anirudha481/Laptop_finder"> AI baded Laptop finder</a>a><br>- 📚 I'm currently learning Web development<br>- ⚡ Fun Fact I like turning “what if?” into “let's build it.<br>- 📫 Contact me at charanirudha9@gmail.com</p>
+<p data-importer="text" align="left">I'm Anirudha TH from India <br><br>- 🔭 I’m working on <a href="https://github.com/Anirudha481/Laptop_finder"> AI based Laptop finder</a><br>- 📚 I'm currently learning Web development<br>- ⚡ Fun Fact I like turning “what if?” into “let's build it.<br>- 📫 Contact me at charanirudha9@gmail.com</p>
 
 ###
 
